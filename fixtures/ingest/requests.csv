@@ -1,0 +1,4 @@
+request_id,user_id,request_date,request_type,requested_amount,desired_completion_date,allows_partial_payment,request_text
+req_01,user_a,2024-03-20,purchase,30000,2024-05-01,TRUE,"Can I buy the laptop for INR 30,000 today?"
+req_02,user_b,2024-03-20,travel,8000,2024-04-30,false,"Trip quote is ZAR 8,000."
+req_03,user_a,2024-03-20,purchase,1000,2024-04-01,maybe,"Malformed boolean row."

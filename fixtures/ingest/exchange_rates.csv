@@ -1,0 +1,8 @@
+rate_date,from_currency,to_currency,rate
+2024-01-15,USD,INR,83
+2024-02-15,USD,INR,84
+2024-01-15,USD,EUR,0.92
+2024-02-15,USD,EUR,0.93
+2024-01-15,EUR,ZAR,20
+2024-02-15,EUR,ZAR,21
+2024-02-15,USD,IDR,not-a-number

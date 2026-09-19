@@ -1,0 +1,4 @@
+user_id,home_currency,current_available_balance,minimum_balance_to_keep,financial_priorities,expense_categories_to_protect,expense_categories_user_is_willing_to_reduce,expense_categories_user_is_willing_to_stop,payment_methods_user_will_consider,max_installment_months
+user_a,INR,100000,20000,education|debt_repayment,rent|groceries,streaming,streaming,full_payment|installments,6
+user_b,ZAR,50000,10000,travel,rent,dining,streaming,full_payment,
+user_bad,INR,not-a-number,10000,,,,,full_payment,

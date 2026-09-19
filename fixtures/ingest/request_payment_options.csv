@@ -1,0 +1,4 @@
+payment_option_id,request_id,payment_method,payment_amount,number_of_payments,first_payment_date,payment_frequency_days,financing_fee,total_payable_amount
+option_02,req_01,installments,10500,3,2024-03-25,30,1500,31500
+option_01,req_01,full_payment,30000,1,2024-03-20,,0,30000
+option_03,req_02,full_payment,8000,1,2024-03-20,,0,8000

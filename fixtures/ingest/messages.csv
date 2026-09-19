@@ -1,0 +1,4 @@
+message_id,user_id,request_id,related_event_id,sent_at,source_type,message_text
+msg_02,user_a,req_01,,2024-03-18T09:30:00Z,employer,Your salary increases to INR 66000 effective 2024-04-15.
+msg_01,user_a,,ev_50,2024-03-01T07:00:00Z,bank,Your August net salary has been credited.
+msg_03,user_a,,,not-a-date,bank,Malformed timestamp row.
