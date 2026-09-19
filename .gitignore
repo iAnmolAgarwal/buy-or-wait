@@ -1,0 +1,30 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# contest-provided data (not redistributed) and run artefacts
+dataset/*
+!dataset/README.md
+cache*/
+runs/
+output.csv
+problem_statement.md
+submission/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+
+# os / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
